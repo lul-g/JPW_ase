@@ -83,7 +83,7 @@ Male - 3Yrs 10Mths 4Wks
 Animal ID: 26496
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -108,7 +108,7 @@ Female - 10Yrs 2Mths 1Wks (approx)
 Animal ID: 26178
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -147,7 +147,7 @@ Male - 2Yrs 5Mths 3Wks (approx)
 Animal ID: 23879
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -185,7 +185,7 @@ Female - 3Yrs 1Wks (approx)
 Animal ID: 26534
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -197,7 +197,7 @@ Female
 Animal ID: 26455
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -235,7 +235,7 @@ Female - 2Yrs 4Mths 2Wks
 Animal ID: 26414
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -273,7 +273,7 @@ Female - 3Yrs 3Mths 3Wks (approx)
 Animal ID: 25788
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -312,7 +312,7 @@ Female - 2Yrs (approx)
 Animal ID: 26143
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -507,7 +507,7 @@ Female - 10Wks
 Animal ID: 26587
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -520,7 +520,7 @@ Female - 10Wks
 Animal ID: 26588
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -533,7 +533,7 @@ Female - 8Yrs
 Animal ID: 26563
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -546,7 +546,7 @@ Male - 8Yrs (approx)
 Animal ID: 26569
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -559,7 +559,7 @@ Female - 5Yrs
 Animal ID: 26575
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -572,7 +572,7 @@ Female - 2Yrs
 Animal ID: 26582
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -585,7 +585,7 @@ Female
 Animal ID: 26558
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -598,7 +598,7 @@ Male - 1Yrs 6Mths
 Animal ID: 26559
 Vaccination status: vaccinated
 Location: Kenton county
-Available for adoption: yes
+Available for adoption: no
 Type: dog
 Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *

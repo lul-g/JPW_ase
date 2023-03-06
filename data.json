@@ -60,7 +60,7 @@
 			"animal_ID": "26327",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -99,7 +99,7 @@
 			"animal_ID": "26543",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -125,7 +125,7 @@
 			"animal_ID": "26601",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -164,7 +164,7 @@
 			"animal_ID": "6802",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -190,7 +190,7 @@
 			"animal_ID": "26534",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -229,7 +229,7 @@
 			"animal_ID": "26337",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -255,7 +255,7 @@
 			"animal_ID": "26522",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -268,7 +268,7 @@
 			"animal_ID": "26650",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -281,7 +281,7 @@
 			"animal_ID": "25788",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -294,7 +294,7 @@
 			"animal_ID": "25990",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -320,7 +320,7 @@
 			"animal_ID": "26143",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
@@ -346,7 +346,7 @@
 			"animal_ID": "26147",
 			"vaccination_status": "vaccinated",
 			"location": "Kenton",
-			"adoptable": "yes",
+			"adoptable": "no",
 			"type": "dog",
 			"additional_details": "Additional details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula."
 	},
