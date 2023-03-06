@@ -1,0 +1,107 @@
+.card-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-weight: 600;
+}
+
+.more {
+    position: relative;
+    margin-top: 5rem;
+    border: none;
+    border-radius: 5px;
+    padding: .5rem 1rem;
+
+    font-size: 1rem;
+    font-weight: 600;
+
+    transition: .2s ease all;
+
+}
+.more:hover {
+    background: #6c757d;
+    box-shadow: 0 0 2rem .3rem #6c757d;
+
+    transition: .2s ease all;
+}
+.prev_nex {
+    display: flex;
+    justify-content: space-between;
+    gap: 0 10rem;
+
+    position: absolute;
+    top: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#row {
+    position: relative;
+    top: 5rem;
+}
+.img {
+    position: relative;
+}
+ img{
+    width: 100%;
+    height: 225px;
+    object-fit: cover; 
+    position: relative;
+}
+.img .name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    width: 100%;
+    text-align: center;
+    z-index: 9;
+}
+.img .name::after {
+    content: attr(data-name);
+    opacity: 0;
+}
+.card {
+    position: relative;
+    z-index: 0;
+}
+.img::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    background-color: #0000008f;
+    opacity: 0;
+    z-index: 1;
+}
+.card:hover .img::after {
+    opacity: 1;
+}
+.card:hover .name::after {
+    opacity: 1;
+}
+.view {
+    z-index: 999;
+}
+
+
+.table {
+    margin: 2rem 0 ;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+
+@media (width < 780px ) {
+    .table {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
